@@ -4,3 +4,4 @@ super nowy ficzer
 new content
 again new content
 Newest release :)
+hotfix #1
